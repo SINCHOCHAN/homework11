@@ -1,5 +1,9 @@
 ![icon](./assets/images/icon.jpeg "icon")
 
+# This is the link to deploy. Using Heruko to run the app.
+
+https://serene-tundra-33548.herokuapp.com/ 
+
 # This is the link to the github repo:
 https://github.com/SINCHOCHAN/homework11 
 
